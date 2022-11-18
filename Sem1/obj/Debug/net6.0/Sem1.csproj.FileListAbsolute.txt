@@ -1,0 +1,15 @@
+C:\Учёба G5\G5\GB\C#\Sem1\bin\Debug\net6.0\Sem1.exe
+C:\Учёба G5\G5\GB\C#\Sem1\bin\Debug\net6.0\Sem1.deps.json
+C:\Учёба G5\G5\GB\C#\Sem1\bin\Debug\net6.0\Sem1.runtimeconfig.json
+C:\Учёба G5\G5\GB\C#\Sem1\bin\Debug\net6.0\Sem1.dll
+C:\Учёба G5\G5\GB\C#\Sem1\bin\Debug\net6.0\Sem1.pdb
+C:\Учёба G5\G5\GB\C#\Sem1\obj\Debug\net6.0\Sem1.csproj.AssemblyReference.cache
+C:\Учёба G5\G5\GB\C#\Sem1\obj\Debug\net6.0\Sem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба G5\G5\GB\C#\Sem1\obj\Debug\net6.0\Sem1.AssemblyInfoInputs.cache
+C:\Учёба G5\G5\GB\C#\Sem1\obj\Debug\net6.0\Sem1.AssemblyInfo.cs
+C:\Учёба G5\G5\GB\C#\Sem1\obj\Debug\net6.0\Sem1.csproj.CoreCompileInputs.cache
+C:\Учёба G5\G5\GB\C#\Sem1\obj\Debug\net6.0\Sem1.dll
+C:\Учёба G5\G5\GB\C#\Sem1\obj\Debug\net6.0\refint\Sem1.dll
+C:\Учёба G5\G5\GB\C#\Sem1\obj\Debug\net6.0\Sem1.pdb
+C:\Учёба G5\G5\GB\C#\Sem1\obj\Debug\net6.0\Sem1.genruntimeconfig.cache
+C:\Учёба G5\G5\GB\C#\Sem1\obj\Debug\net6.0\ref\Sem1.dll
