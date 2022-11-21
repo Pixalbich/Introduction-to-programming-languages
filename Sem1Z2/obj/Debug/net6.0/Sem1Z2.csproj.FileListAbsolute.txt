@@ -3,3 +3,13 @@ C:\Учёба G5\G5\GB\C#\Sem1Z2\obj\Debug\net6.0\Sem1Z2.GeneratedMSBuildEditorC
 C:\Учёба G5\G5\GB\C#\Sem1Z2\obj\Debug\net6.0\Sem1Z2.AssemblyInfoInputs.cache
 C:\Учёба G5\G5\GB\C#\Sem1Z2\obj\Debug\net6.0\Sem1Z2.AssemblyInfo.cs
 C:\Учёба G5\G5\GB\C#\Sem1Z2\obj\Debug\net6.0\Sem1Z2.csproj.CoreCompileInputs.cache
+C:\Учёба G5\G5\GB\C#\Sem1Z2\bin\Debug\net6.0\Sem1Z2.exe
+C:\Учёба G5\G5\GB\C#\Sem1Z2\bin\Debug\net6.0\Sem1Z2.deps.json
+C:\Учёба G5\G5\GB\C#\Sem1Z2\bin\Debug\net6.0\Sem1Z2.runtimeconfig.json
+C:\Учёба G5\G5\GB\C#\Sem1Z2\bin\Debug\net6.0\Sem1Z2.dll
+C:\Учёба G5\G5\GB\C#\Sem1Z2\bin\Debug\net6.0\Sem1Z2.pdb
+C:\Учёба G5\G5\GB\C#\Sem1Z2\obj\Debug\net6.0\Sem1Z2.dll
+C:\Учёба G5\G5\GB\C#\Sem1Z2\obj\Debug\net6.0\refint\Sem1Z2.dll
+C:\Учёба G5\G5\GB\C#\Sem1Z2\obj\Debug\net6.0\Sem1Z2.pdb
+C:\Учёба G5\G5\GB\C#\Sem1Z2\obj\Debug\net6.0\Sem1Z2.genruntimeconfig.cache
+C:\Учёба G5\G5\GB\C#\Sem1Z2\obj\Debug\net6.0\ref\Sem1Z2.dll
