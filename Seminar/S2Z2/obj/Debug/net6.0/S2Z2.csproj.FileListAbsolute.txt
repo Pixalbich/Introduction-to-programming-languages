@@ -1,0 +1,15 @@
+C:\Учёба G5\G5\GB\cSharp\S2Z2\obj\Debug\net6.0\S2Z2.csproj.AssemblyReference.cache
+C:\Учёба G5\G5\GB\cSharp\S2Z2\obj\Debug\net6.0\S2Z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба G5\G5\GB\cSharp\S2Z2\obj\Debug\net6.0\S2Z2.AssemblyInfoInputs.cache
+C:\Учёба G5\G5\GB\cSharp\S2Z2\obj\Debug\net6.0\S2Z2.AssemblyInfo.cs
+C:\Учёба G5\G5\GB\cSharp\S2Z2\obj\Debug\net6.0\S2Z2.csproj.CoreCompileInputs.cache
+C:\Учёба G5\G5\GB\cSharp\S2Z2\bin\Debug\net6.0\S2Z2.exe
+C:\Учёба G5\G5\GB\cSharp\S2Z2\bin\Debug\net6.0\S2Z2.deps.json
+C:\Учёба G5\G5\GB\cSharp\S2Z2\bin\Debug\net6.0\S2Z2.runtimeconfig.json
+C:\Учёба G5\G5\GB\cSharp\S2Z2\bin\Debug\net6.0\S2Z2.dll
+C:\Учёба G5\G5\GB\cSharp\S2Z2\bin\Debug\net6.0\S2Z2.pdb
+C:\Учёба G5\G5\GB\cSharp\S2Z2\obj\Debug\net6.0\S2Z2.dll
+C:\Учёба G5\G5\GB\cSharp\S2Z2\obj\Debug\net6.0\refint\S2Z2.dll
+C:\Учёба G5\G5\GB\cSharp\S2Z2\obj\Debug\net6.0\S2Z2.pdb
+C:\Учёба G5\G5\GB\cSharp\S2Z2\obj\Debug\net6.0\S2Z2.genruntimeconfig.cache
+C:\Учёба G5\G5\GB\cSharp\S2Z2\obj\Debug\net6.0\ref\S2Z2.dll
