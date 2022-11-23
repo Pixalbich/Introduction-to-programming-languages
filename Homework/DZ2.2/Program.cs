@@ -5,9 +5,6 @@
 78 -> третьей цифры нет
 
 32679 -> 6 */
-
-
-
 Console.WriteLine("Программа выводит, если есть третью цифру заданного числа.");
 int num = Convert.ToInt32(Console.ReadLine());
 if (num > 99)
