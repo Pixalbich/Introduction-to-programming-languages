@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Учёба G5\\G5\\GB\\C#\\DZ2.1\\DZ2.1.csproj",
+      "projectUniqueName": "C:\\Учёба G5\\G5\\GB\\C#\\Homework\\DZ2.1\\DZ2.1.csproj",
       "projectName": "DZ2.1",
-      "projectPath": "C:\\Учёба G5\\G5\\GB\\C#\\DZ2.1\\DZ2.1.csproj",
+      "projectPath": "C:\\Учёба G5\\G5\\GB\\C#\\Homework\\DZ2.1\\DZ2.1.csproj",
       "packagesPath": "C:\\Users\\najom\\.nuget\\packages\\",
-      "outputPath": "C:\\Учёба G5\\G5\\GB\\C#\\DZ2.1\\obj\\",
+      "outputPath": "C:\\Учёба G5\\G5\\GB\\C#\\Homework\\DZ2.1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\najom\\AppData\\Roaming\\NuGet\\NuGet.Config"
