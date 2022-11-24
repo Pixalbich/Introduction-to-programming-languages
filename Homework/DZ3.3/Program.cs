@@ -10,6 +10,6 @@ int n = Convert.ToInt32(Console.ReadLine());
 int c = 1;
 while (c<=n)
 {
-  Console.WriteLine(n+" в кубе = "+c*c*c);
+  Console.WriteLine(n+" в кубе = "+c*c*c); //Math.Pow(c,3)
   c++;
 }
