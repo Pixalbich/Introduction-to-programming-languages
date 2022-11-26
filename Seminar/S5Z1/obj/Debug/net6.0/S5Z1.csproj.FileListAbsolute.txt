@@ -1,0 +1,15 @@
+C:\Учёба G5\G5\GB\C#\Seminar\S5Z1\bin\Debug\net6.0\S5Z1.exe
+C:\Учёба G5\G5\GB\C#\Seminar\S5Z1\bin\Debug\net6.0\S5Z1.deps.json
+C:\Учёба G5\G5\GB\C#\Seminar\S5Z1\bin\Debug\net6.0\S5Z1.runtimeconfig.json
+C:\Учёба G5\G5\GB\C#\Seminar\S5Z1\bin\Debug\net6.0\S5Z1.dll
+C:\Учёба G5\G5\GB\C#\Seminar\S5Z1\bin\Debug\net6.0\S5Z1.pdb
+C:\Учёба G5\G5\GB\C#\Seminar\S5Z1\obj\Debug\net6.0\S5Z1.csproj.AssemblyReference.cache
+C:\Учёба G5\G5\GB\C#\Seminar\S5Z1\obj\Debug\net6.0\S5Z1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба G5\G5\GB\C#\Seminar\S5Z1\obj\Debug\net6.0\S5Z1.AssemblyInfoInputs.cache
+C:\Учёба G5\G5\GB\C#\Seminar\S5Z1\obj\Debug\net6.0\S5Z1.AssemblyInfo.cs
+C:\Учёба G5\G5\GB\C#\Seminar\S5Z1\obj\Debug\net6.0\S5Z1.csproj.CoreCompileInputs.cache
+C:\Учёба G5\G5\GB\C#\Seminar\S5Z1\obj\Debug\net6.0\S5Z1.dll
+C:\Учёба G5\G5\GB\C#\Seminar\S5Z1\obj\Debug\net6.0\refint\S5Z1.dll
+C:\Учёба G5\G5\GB\C#\Seminar\S5Z1\obj\Debug\net6.0\S5Z1.pdb
+C:\Учёба G5\G5\GB\C#\Seminar\S5Z1\obj\Debug\net6.0\S5Z1.genruntimeconfig.cache
+C:\Учёба G5\G5\GB\C#\Seminar\S5Z1\obj\Debug\net6.0\ref\S5Z1.dll
