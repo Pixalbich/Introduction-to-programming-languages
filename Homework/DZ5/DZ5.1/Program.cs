@@ -4,22 +4,22 @@
 
 Console.WriteLine("Уточните размер массива");
 int massize = Convert.ToInt32(Console.ReadLine());
-int [] RandomArray(int size) 
+int[] RandomArray(int size)
 {
     int[] array = new int[size];
     int count = 0;
     for (int i = 0; i < size; i++)
     {
-        array[i] = new Random().Next(100,1000);
+        array[i] = new Random().Next(100, 1000);
         int Arra = (array[i]);
-        if (Arra%2==0){count++;} //знаю что не красиво, но всего 1 условие.
+        if (Arra % 2 == 0) { count++; } //знаю что не красиво не переносить фигурные скобки, но всего 1 условие.
     }
-    Console.WriteLine(count+" - количество четных элементов в массиве: ");
+    Console.WriteLine(count + " - количество четных элементов в массиве: ");
     return array;
 }
 int[] array = RandomArray(massize);
 
-Console.Write(String.Join(", ",array));
+Console.Write(String.Join(", ", array));
 
 /* Console.WriteLine("Уточните размер массива");
 int massize = Convert.ToInt32(Console.ReadLine());
