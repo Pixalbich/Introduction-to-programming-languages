@@ -55,7 +55,7 @@ double Rou(double value ,int accuracy)           // Метод перемеща�
             value*=10;
             x*=10;
         }
-    return Math.Round(value)/x;
+    return Math.Round(value)/x;                  //Math.Round(value, 2)/x; второй вариант, но про Math.Round(value, количество знаков после запятой) я не знал подробностей.
 }
 
 Print(Rou(Raznica(array[0], array[0]), acc)); //обращение к методу
