@@ -30,8 +30,6 @@ for (int i = 0; i < matrix.GetLength(1); i++)
     for (int j = 0; j < matrix.GetLength(0); j++)
     {
         sum+= matrix[j,i];
-        
-       
     }
     stolbec++;
     sum= (Math.Floor(sum/matrix.GetLength(0)*10))/10;
