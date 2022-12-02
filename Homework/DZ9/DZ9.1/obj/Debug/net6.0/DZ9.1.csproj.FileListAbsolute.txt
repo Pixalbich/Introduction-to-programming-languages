@@ -1,0 +1,15 @@
+C:\Учёба G5\G5\GB\C#\Homework\DZ9\DZ9.1\bin\Debug\net6.0\DZ9.1.exe
+C:\Учёба G5\G5\GB\C#\Homework\DZ9\DZ9.1\bin\Debug\net6.0\DZ9.1.deps.json
+C:\Учёба G5\G5\GB\C#\Homework\DZ9\DZ9.1\bin\Debug\net6.0\DZ9.1.runtimeconfig.json
+C:\Учёба G5\G5\GB\C#\Homework\DZ9\DZ9.1\bin\Debug\net6.0\DZ9.1.dll
+C:\Учёба G5\G5\GB\C#\Homework\DZ9\DZ9.1\bin\Debug\net6.0\DZ9.1.pdb
+C:\Учёба G5\G5\GB\C#\Homework\DZ9\DZ9.1\obj\Debug\net6.0\DZ9.1.csproj.AssemblyReference.cache
+C:\Учёба G5\G5\GB\C#\Homework\DZ9\DZ9.1\obj\Debug\net6.0\DZ9.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба G5\G5\GB\C#\Homework\DZ9\DZ9.1\obj\Debug\net6.0\DZ9.1.AssemblyInfoInputs.cache
+C:\Учёба G5\G5\GB\C#\Homework\DZ9\DZ9.1\obj\Debug\net6.0\DZ9.1.AssemblyInfo.cs
+C:\Учёба G5\G5\GB\C#\Homework\DZ9\DZ9.1\obj\Debug\net6.0\DZ9.1.csproj.CoreCompileInputs.cache
+C:\Учёба G5\G5\GB\C#\Homework\DZ9\DZ9.1\obj\Debug\net6.0\DZ9.1.dll
+C:\Учёба G5\G5\GB\C#\Homework\DZ9\DZ9.1\obj\Debug\net6.0\refint\DZ9.1.dll
+C:\Учёба G5\G5\GB\C#\Homework\DZ9\DZ9.1\obj\Debug\net6.0\DZ9.1.pdb
+C:\Учёба G5\G5\GB\C#\Homework\DZ9\DZ9.1\obj\Debug\net6.0\DZ9.1.genruntimeconfig.cache
+C:\Учёба G5\G5\GB\C#\Homework\DZ9\DZ9.1\obj\Debug\net6.0\ref\DZ9.1.dll
