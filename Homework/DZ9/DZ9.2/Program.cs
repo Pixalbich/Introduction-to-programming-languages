@@ -10,7 +10,6 @@ int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите значение N: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
-int sum=0;
 Console.WriteLine(PrintNum(m,n));
 
 int PrintNum(int start, int end)
